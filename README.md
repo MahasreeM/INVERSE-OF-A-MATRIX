@@ -21,6 +21,8 @@ End of the program
     a=np.array([[6,2,3],[3,1,1],[10,3,4]])
     res=np.linalg.inv(a)
     print(res)
+
+    
 ## Output:
 ![alt text](<Screenshot (65).png>)
 ## Result:
